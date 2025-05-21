@@ -21,7 +21,7 @@ This project implements a neural network trained on the MNIST dataset to recogni
 
 ## 🖼️ Screenshots
 
-![App Screenshot](![Image](https://github.com/user-attachments/assets/6bacc7e5-b527-42c1-97c8-c512a202a798))
+![App Screenshot]![Image](https://github.com/user-attachments/assets/6bacc7e5-b527-42c1-97c8-c512a202a798)
 
 ## 🧠 Model Architecture
 
